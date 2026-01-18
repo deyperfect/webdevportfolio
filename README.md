@@ -35,5 +35,5 @@ This portfolio showcases my progress, projects, and growth as I work toward beco
 - Organized CSS and Bootstrap layout  
 
 **View the portfolio here:**  
-[https://deyperfect.github.io/webdevportfolio/](#)
+[https://deyperfect.github.io/webdevportfolio/](url)
 
